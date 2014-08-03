@@ -1,0 +1,1 @@
+<?php $configString = 'a:2:{s:4:"user";s:3:"flo";s:4:"pass";s:3:"flo";}'; ?>

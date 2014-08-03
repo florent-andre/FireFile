@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.test {
+    border-style:               solid;
+    color:                      rgb(51, 51, 51);
+    position:                   relative;
+}
+.test {
+    color:                      green;
+}
